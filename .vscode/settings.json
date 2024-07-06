@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.exclude": {
+        "": true,
+        "**/.git": false
+    },
+    "editor.wordWrap": "on"
+}
